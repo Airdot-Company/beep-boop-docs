@@ -8,6 +8,7 @@
 
 * [What is pro?](pro/what-is-pro.md)
 * [Custom Bots](pro/custom-bots.md)
+* [Troubleshooting](pro/troubleshooting.md)
 
 ## 🎫 Tickets
 
