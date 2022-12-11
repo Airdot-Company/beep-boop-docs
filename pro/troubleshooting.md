@@ -1,6 +1,6 @@
 # Troubleshooting
 
-#### Privileged Gateway Intents
+### Privileged Gateway Intents
 
 Make sure all your Privileged Intents are enabled for your custom bot
 
