@@ -6,6 +6,12 @@ description: Learn about the Custom Bot feature included in the pro subscription
 
 Get more customization with your own instance of Beep Boop, name it whatever you want put on whatever avatar you want, it's your bot.
 
+{% hint style="warning" %}
+Disclaimer: Your custom bot won't get a verified check.
+
+![](<../.gitbook/assets/image (3).png>)
+{% endhint %}
+
 ## Setting up your custom bot
 
 First off, head over to the [Discord Developer Portal](https://discord.com/developers) and create a new application.
