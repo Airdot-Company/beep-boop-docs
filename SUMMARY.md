@@ -1,8 +1,8 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
-* [💡 Setting up Beep Boop](setting-up-beep-boop.md)
-* [🎲 Activities](activities.md)
+* [💡 \[old\] Setting up Beep Boop](old-setting-up-beep-boop.md)
+* [🎲 \[old\] Activities](old-activities.md)
 
 ## 👑 PRO
 

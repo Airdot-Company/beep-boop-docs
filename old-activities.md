@@ -1,4 +1,4 @@
-# 🎲 Activities
+# 🎲 \[old] Activities
 
 Activities are a way to interact with your users through games and levels.
 
@@ -6,4 +6,4 @@ Activities are a way to interact with your users through games and levels.
 
 _Reward members for being active in your server._
 
-First off, run [`/server`](setting-up-beep-boop.md) and click **⚙️ Server Settings**&#x20;
+First off, run [`/server`](old-setting-up-beep-boop.md) and click **⚙️ Server Settings**&#x20;

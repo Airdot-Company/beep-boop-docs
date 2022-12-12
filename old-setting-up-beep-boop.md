@@ -4,9 +4,9 @@ description: >-
   through the steps
 ---
 
-# 💡 Setting up Beep Boop
+# 💡 \[old] Setting up Beep Boop
 
-First, make sure you're in the server you want to configure, then type in the chat box `/server`, the bot will respond with some buttons (as seen below), we'll show you what all of them mean in [Features you can set up](setting-up-beep-boop.md#undefined).
+First, make sure you're in the server you want to configure, then type in the chat box `/server`, the bot will respond with some buttons (as seen below), we'll show you what all of them mean in [Features you can set up](old-setting-up-beep-boop.md#undefined).
 
 <figure><img src="https://turtlepaw.is-from.space/r/Discord_iDHjf8JjNS.png" alt=""><figcaption></figcaption></figure>
 
