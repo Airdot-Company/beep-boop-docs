@@ -24,5 +24,12 @@ For your custom bot to work, you'll need to enable Privileged Gateway Intents.
 
 <figure><img src="../.gitbook/assets/msedge_cJqb2eKwBZ.png" alt=""><figcaption><p>Gateway Intents Enabled</p></figcaption></figure>
 
+### Setting up your custom bot on Beep Boop
 
+Head back onto Discord, go to the server you want your bot to primarily be, and use `/subscription`, you should see a few buttons and your information about your subscription.
 
+Once you've finished looking around, click on `Custom Branding` and click new bot or/and a modal will show up, like this one:
+
+![](../.gitbook/assets/image.png)
+
+Enter your bot token you got from the Discord Developer Portal up [here](custom-bots.md#setting-up-your-custom-bot), select a log channel, and...   Your bot's online!
