@@ -1,6 +1,6 @@
 ---
 description: >-
-  Setting up Beep Boop through Discord is easy; in this section we'll guide you
+  Setting up Beep Boop through Discord is easy, in this section we'll guide you
   through the steps
 ---
 
