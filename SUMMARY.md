@@ -6,7 +6,7 @@
 
 ## 👑 PRO
 
-* [What is pro?](pro/what-is-pro.md)
+* [What is pro and basic?](pro/what-is-pro-and-basic.md)
 * [Custom Bots](pro/custom-bots.md)
 * [Troubleshooting](pro/troubleshooting.md)
 
